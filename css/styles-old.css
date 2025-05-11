@@ -460,9 +460,9 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   padding: 0;
 
+  position: absolute;
   top: 24px;
   right: 24px;
 
