@@ -22,7 +22,7 @@ body {
   background-color: #fff;
 }
 
-/* reset */
+/* #region reset */
 
 img {
   display: block;
@@ -73,8 +73,9 @@ input {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+/* #endregion reset */
 
-/* common */
+/* #region common */
 
 .container {
   max-width: 320px;
@@ -94,8 +95,9 @@ input {
     padding: 0 15px;
   }
 }
+/* #endregion common */
 
-/* header */
+/* #region header */
 
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -156,6 +158,7 @@ input {
 .burger-icon:focus {
   fill: #31d0aa;
 }
+/* #endregion header */
 
 /* #region Header 768px */
 
@@ -250,6 +253,8 @@ input {
 }
 /* #endregion Header 768px */
 
+/* #region Header 1158px */
+
 @media screen and (min-width: 1158px) {
   .logo-link {
     margin-right: 76px;
@@ -267,8 +272,9 @@ input {
     letter-spacing: 0.02em;
   }
 }
+/* #endregion Header 1158px */
 
-/* mobile menu */
+/* #region mobile menu */
 
 .mobile-menu {
   position: fixed;
@@ -408,6 +414,7 @@ input {
 .mobile-social-icon {
   fill: #f4f4fd;
 }
+/* #endregion mobile menu */
 
 @media screen and (min-width: 768px) {
   .mobile-menu {
