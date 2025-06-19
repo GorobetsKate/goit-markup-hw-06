@@ -86,43 +86,7 @@
 /* #endregion hero */
 
 /* #region Straregy */
-.strategy {
-  padding: 120px 0;
-}
-.strategy-list {
-  display: flex;
-  justify-content: space-between;
-  gap: 24px;
-}
-.strategy-item {
-  flex-basis: calc((100%-72px) / 4);
-}
-.strategy-item-box {
-  display: flex;
-  width: 264px;
-  height: 112px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  background: #f4f4fd;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 8px;
-}
-.strategy-icons {
-}
-.strategy-item-title {
-  font-weight: 500;
-  font-size: 20px;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-  color: #2e2f42;
-  margin-bottom: 8px;
-}
-.strategy-item-text {
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
+
 /* #endregion Straregy */
 
 /* #region Our Team */
