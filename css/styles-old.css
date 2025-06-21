@@ -146,18 +146,16 @@
 /* #region footer */
 .page-footer {
   padding: 100px 0;
-  background-color: #2e2f42;
 }
 
-.footer-container {
-  display: flex;
+/* .footer-container {
   align-items: baseline;
-}
+} */
 
-.footer-box-logo {
+/* .footer-box-logo {
   margin-right: 120px;
-}
-
+} */
+/* 
 .footer-logo-link {
   display: inline-block;
   font-family: 'Raleway', sans-serif;
@@ -188,46 +186,45 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
+} */
 .footer-box-social {
 }
 
-.media {
+/* .media {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
-.footer-box-social .social-list {
+} */
+/* .footer-box-social .social-list {
   gap: 16px;
-}
-.footer-box-social .social-links:hover,
+} */
+/* .footer-box-social .social-links:hover,
 .footer-box-social .social-links:focus {
   background-color: #31d0aa;
-}
+} */
 
 .footer-subscribe {
   margin-left: auto;
 }
-.subscribe-title {
+/* .subscribe-title {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #fff;
   margin-bottom: 16px;
-}
+} */
 .subscribe-form {
-  display: flex;
   gap: 24px;
 }
 
 .subscribe-label {
 }
 
-.subscribe-form-input {
+/* .subscribe-form-input {
   border: 1px solid #fff;
   border-radius: 4px;
   width: 264px;
@@ -282,7 +279,7 @@
 .subscribe-icon {
   fill: #fff;
   margin-left: 16px;
-}
+} */
 
 /* #endregion footer */
 
